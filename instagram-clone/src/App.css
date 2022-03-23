@@ -1,0 +1,16 @@
+* {
+  margin :0;
+}
+.app__headerImage{
+  
+}
+.App{
+  height: 100vh;
+  background-color: #fafafa;
+
+}
+.app__header{
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+  object-fit: contain;
+}
